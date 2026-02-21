@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Surya Kanta Dalai</h1>
-<h3 align="center">Java Developer | MCA Student | Software Development Enthusiast 🇮🇳</h3>
+<h3 align="center">Java Fullstack Developer | MCA Student | Software Development Enthusiast 🇮🇳</h3>
 
 ---
 
 ## 👨‍💻 About Me
 
-- 🎓 I'm currently pursuing **Master of Computer Applications (MCA)**
-- 💻 Passionate about **Java Backend Development**
+- 🎓 I have completed **Master of Computer Applications (MCA)**
+- 💻 Passionate about **Java Fullstack Development**
 - 🌱 Currently learning **Advanced Java, JDBC, and Full-Stack Development**
 - 🚀 Interested in building **real-world software applications**
 - 🤝 Open to collaborate on **Java, Web, and Software Development projects**
@@ -38,6 +38,7 @@
 - Git & GitHub
 - VS Code
 - Eclipse
+- Debugging
 
 ### 📚 Currently Learning
 - Spring Boot
@@ -49,8 +50,28 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Surya-kanta&show_icons=true&theme=tokyonight" width="48%" />
+  <img src="[https://github-readme-stats.vercel.app/api?username=Surya-kanta&show_icons=true&theme=tokyonight](https://github-readme-stats-sigma-five.vercel.app/api?username=Surya-kanta&show_icons=true&theme=tokyonight)" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Surya-kanta&theme=tokyonight" width="48%" />
+</p>
+---
+## 🧠 Coding Profiles
+
+<p align="center">
+
+<a href="https://www.hackerrank.com/suryakantadalai1">
+<img src="https://img.shields.io/badge/HackerRank-Java%205★-2EC866?style=for-the-badge&logo=HackerRank">
+<img src="https://img.shields.io/badge/HackerRank-Problem%20Solving%205★-2EC866?style=for-the-badge&logo=HackerRank">
+<img src="https://img.shields.io/badge/HackerRank-SQL%203★-2EC866?style=for-the-badge&logo=HackerRank">
+</a>
+
+<a href="https://leetcode.com/Surya-Kanta-Dalai/">
+<img src="https://img.shields.io/badge/LeetCode-30%2B%20Solved-orange?style=for-the-badge&logo=leetcode">
+</a>
+
+</p>
+
+<p align="center">
+<img src="https://leetcard.jacoblin.cool/Surya-Kanta-Dalai?theme=dark&font=Baloo">
 </p>
 
 ---
@@ -58,7 +79,7 @@
 ## 🚀 Projects
 
 - 🧠 Face Recognition Attendance System (Python, Flask, MySQL)
-- 🛒 Java Desktop E-Commerce Application
+- 🛒 Java Desktop Calulator
 - 🎫 Bus Ticket Booking System (PHP, MySQL)
 - 🌐 Web Development Projects
 
