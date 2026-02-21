@@ -1,45 +1,94 @@
-<h1 align="center">Hi, 👋 I’m SURYA KANTA</h1>
-
-<p align="center">A passionate Java developer from India</p>
-
----
-
-### 👨‍💻 About Me
-- 👀 I’m interested in **Software Development**.  
-- 🌱 I’m currently learning **MCA**.  
-- 💞️ I’m looking to collaborate on exciting projects that involve **software development, web development, or innovative technologies**.  
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/suryakantadalai22)  
-- ⚡ Fact: My hobby is **learning new skills**.  
+<h1 align="center">Hi 👋, I'm Surya Kanta Dalai</h1>
+<h3 align="center">Java Developer | MCA Student | Software Development Enthusiast 🇮🇳</h3>
 
 ---
 
-### 🛠️ Skills & Interests  
+## 👨‍💻 About Me
 
-- **Programming:** Java, Python, HTML, CSS, JavaScript, C  
-- **Backend:** MySQL, Oracle  
-- **Learning:** Full-stack development, Algorithms, and Data Structures  
+- 🎓 I'm currently pursuing **Master of Computer Applications (MCA)**
+- 💻 Passionate about **Java Backend Development**
+- 🌱 Currently learning **Advanced Java, JDBC, and Full-Stack Development**
+- 🚀 Interested in building **real-world software applications**
+- 🤝 Open to collaborate on **Java, Web, and Software Development projects**
+- 📫 Reach me at: **suryakantadalai22@gmail.com**
+- 🔗 LinkedIn: **https://www.linkedin.com/in/suryakantadalai22**
+- ⚡ Fun fact: I love **learning new technologies and improving my coding skills**
 
 ---
 
-### 📊 GitHub Stats  
+## 🛠️ Technical Skills
+
+### 👨‍💻 Programming Languages
+- Java ⭐⭐⭐⭐⭐
+- Python
+- C
+- JavaScript
+
+### 🌐 Web Technologies
+- HTML
+- CSS
+- JavaScript
+
+### 🗄️ Database
+- MySQL
+- Oracle
+
+### ⚙️ Tools & Technologies
+- JDBC
+- Git & GitHub
+- VS Code
+- Eclipse
+
+### 📚 Currently Learning
+- Spring Boot
+- Data Structures & Algorithms
+- Full Stack Development
+
+---
+
+## 📊 GitHub Stats
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Surya-kanta&show_icons=true&theme=radical" width="400px"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Surya-kanta&theme=radical" width="400px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Surya-kanta&show_icons=true&theme=tokyonight" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Surya-kanta&theme=tokyonight" width="48%" />
 </p>
 
 ---
 
-### 🌐 Connect with Me
+## 🚀 Projects
+
+- 🧠 Face Recognition Attendance System (Python, Flask, MySQL)
+- 🛒 Java Desktop E-Commerce Application
+- 🎫 Bus Ticket Booking System (PHP, MySQL)
+- 🌐 Web Development Projects
+
+---
+
+## 🌐 Connect With Me
+
 <p align="center">
-  <a href="https://www.linkedin.com/in/suryakantadalai22">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
-  </a>
-  <a href="mailto:suryakantadalai22@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
+
+<a href="https://www.linkedin.com/in/suryakantadalai22">
+<img src="https://img.shields.io/badge/LinkedIn-Surya%20Kanta%20Dalai-blue?style=for-the-badge&logo=linkedin">
+</a>
+
+<a href="mailto:suryakantadalai22@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-Send%20Mail-red?style=for-the-badge&logo=gmail">
+</a>
+
+<a href="https://github.com/Surya-kanta">
+<img src="https://img.shields.io/badge/GitHub-Surya--kanta-black?style=for-the-badge&logo=github">
+</a>
+
 </p>
 
 ---
 
-⭐️ Feel free to check out my repositories or reach out for collaboration!  
-🚀 I’m always excited to work on new challenges and learn from the community.
+## 💡 Career Objective
+
+To obtain a **Java Developer position** where I can apply my programming skills, contribute to real-world projects, and continuously grow as a software developer.
+
+---
+
+⭐ **Thank you for visiting my profile!**  
+💼 Open for **Internships | Entry-Level Java Developer Roles**
