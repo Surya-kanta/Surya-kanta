@@ -1,87 +1,98 @@
 <h1 align="center">Hi 👋, I'm Surya Kanta Dalai</h1>
-<h3 align="center">Java Fullstack Developer | MCA Student | Software Development Enthusiast 🇮🇳</h3>
+<h3 align="center">☕ Java Full Stack Developer | 🎓 MCA Graduate | 💻 Software Development Enthusiast 🇮🇳</h3>
+
+<p align="center">
+  <a href="https://github.com/Surya-kanta">
+    <img src="https://komarev.com/ghpvc/?username=Surya-kanta&label=Profile%20Views&color=0e75b6&style=flat" />
+  </a>
+</p>
 
 ---
 
 ## 👨‍💻 About Me
 
-- 🎓 I have completed **Master of Computer Applications (MCA)**
-- 💻 Passionate about **Java Fullstack Development**
-- 🌱 Currently learning **Advanced Java, JDBC, and Full-Stack Development**
-- 🚀 Interested in building **real-world software applications**
-- 🤝 Open to collaborate on **Java, Web, and Software Development projects**
-- 📫 Reach me at: **suryakantadalai22@gmail.com**
-- 🔗 LinkedIn: **https://www.linkedin.com/in/suryakantadalai22**
-- ⚡ Fun fact: I love **learning new technologies and improving my coding skills**
+- 🎓 Completed **Master of Computer Applications (MCA)**
+- ☕ Specialized in **Java Full Stack Development**
+- 🌱 Currently learning **Spring Boot, JDBC, and Advanced Java**
+- 🚀 Love building **real-world scalable applications**
+- 🤝 Open to collaborate on **Java, Backend, and Web projects**
+- 📫 Email: **suryakantadalai22@gmail.com**
+- 🔗 LinkedIn: **linkedin.com/in/suryakantadalai22**
+- ⚡ Fun fact: **I enjoy solving coding problems and learning new technologies**
 
 ---
 
-## 🛠️ Technical Skills
+## 🛠️ Tech Stack
 
-### 👨‍💻 Programming Languages
-- Java ⭐⭐⭐⭐⭐
-- Python
-- C
-- JavaScript
+<p align="center">
 
-### 🌐 Web Technologies
-- HTML
-- CSS
-- JavaScript
+<img src="https://skillicons.dev/icons?i=java,python,c,js,html,css,mysql,git,github,vscode,eclipse" />
 
-### 🗄️ Database
-- MySQL
-- Oracle
-
-### ⚙️ Tools & Technologies
-- JDBC
-- Git & GitHub
-- VS Code
-- Eclipse
-- Debugging
-
-### 📚 Currently Learning
-- Spring Boot
-- Data Structures & Algorithms
-- Full Stack Development
+</p>
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="[https://github-readme-stats.vercel.app/api?username=Surya-kanta&show_icons=true&theme=tokyonight](https://github-readme-stats-sigma-five.vercel.app/api?username=Surya-kanta&show_icons=true&theme=tokyonight)" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Surya-kanta&theme=tokyonight" width="48%" />
+
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Surya-kanta&show_icons=true&theme=tokyonight" width="48%" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Surya-kanta&theme=tokyonight" width="48%" />
+
 </p>
+
+<p align="center">
+
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Surya-kanta&layout=compact&theme=tokyonight" width="40%" />
+
+</p>
+
 ---
+
 ## 🧠 Coding Profiles
 
 <p align="center">
 
 <a href="https://www.hackerrank.com/suryakantadalai1">
-<img src="https://img.shields.io/badge/HackerRank-Java%205★-2EC866?style=for-the-badge&logo=HackerRank">
-<img src="https://img.shields.io/badge/HackerRank-Problem%20Solving%205★-2EC866?style=for-the-badge&logo=HackerRank">
-<img src="https://img.shields.io/badge/HackerRank-SQL%203★-2EC866?style=for-the-badge&logo=HackerRank">
+<img src="https://img.shields.io/badge/HackerRank-Java%205★-2EC866?style=for-the-badge&logo=HackerRank" />
+</a>
+
+<a href="https://www.hackerrank.com/suryakantadalai1">
+<img src="https://img.shields.io/badge/Problem%20Solving-5★-2EC866?style=for-the-badge&logo=HackerRank" />
+</a>
+
+<a href="https://www.hackerrank.com/suryakantadalai1">
+<img src="https://img.shields.io/badge/SQL-3★-2EC866?style=for-the-badge&logo=HackerRank" />
 </a>
 
 <a href="https://leetcode.com/Surya-Kanta-Dalai/">
-<img src="https://img.shields.io/badge/LeetCode-30%2B%20Solved-orange?style=for-the-badge&logo=leetcode">
+<img src="https://img.shields.io/badge/LeetCode-30%2B%20Solved-orange?style=for-the-badge&logo=leetcode" />
 </a>
 
 </p>
 
 <p align="center">
-<img src="https://leetcard.jacoblin.cool/Surya-Kanta-Dalai?theme=dark&font=Baloo">
+
+<img src="https://leetcard.jacoblin.cool/Surya-Kanta-Dalai?theme=tokyonight&font=Baloo&ext=contest" />
+
 </p>
 
 ---
 
-## 🚀 Projects
+## 🚀 Featured Projects
 
-- 🧠 Face Recognition Attendance System (Python, Flask, MySQL)
-- 🛒 Java Desktop Calulator
-- 🎫 Bus Ticket Booking System (PHP, MySQL)
-- 🌐 Web Development Projects
+🔹 **Face Recognition Attendance System**  
+Python, Flask, OpenCV, MySQL  
+
+🔹 **Java Desktop Calculator Application**  
+Java, Swing  
+
+🔹 **Bus Ticket Booking System**  
+PHP, MySQL  
+
+🔹 **Web Development Projects**  
+HTML, CSS, JavaScript  
 
 ---
 
@@ -90,26 +101,30 @@
 <p align="center">
 
 <a href="https://www.linkedin.com/in/suryakantadalai22">
-<img src="https://img.shields.io/badge/LinkedIn-Surya%20Kanta%20Dalai-blue?style=for-the-badge&logo=linkedin">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
 </a>
 
 <a href="mailto:suryakantadalai22@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-Send%20Mail-red?style=for-the-badge&logo=gmail">
+<img src="https://img.shields.io/badge/Gmail-Email-red?style=for-the-badge&logo=gmail" />
 </a>
 
 <a href="https://github.com/Surya-kanta">
-<img src="https://img.shields.io/badge/GitHub-Surya--kanta-black?style=for-the-badge&logo=github">
+<img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github" />
 </a>
 
 </p>
 
 ---
 
-## 💡 Career Objective
+## 💼 Career Objective
 
-To obtain a **Java Developer position** where I can apply my programming skills, contribute to real-world projects, and continuously grow as a software developer.
+🎯 To obtain a **Java Full Stack Developer position** where I can apply my skills, contribute to real-world applications, and grow as a professional software engineer.
 
 ---
 
-⭐ **Thank you for visiting my profile!**  
+<p align="center">
+
+⭐ From <a href="https://github.com/Surya-kanta">Surya Kanta Dalai</a>  
 💼 Open for **Internships | Entry-Level Java Developer Roles**
+
+</p>
